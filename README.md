@@ -17,4 +17,4 @@ Updates
 ========
 
 1. As of Java 8 Swing Framework is replacced by JavaFX.
-2. Every Java Major Update since Java5 adds to concurrency API, Java 8 is no exception. Must see updates on Concurrent Programming as well.
+2. Every major Java update since Java 1.5 or 5.0 a.k.a Tiger Release adds to concurrency API, Java 8 is no exception. Must see updates on Concurrent Programming as well.
