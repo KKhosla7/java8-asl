@@ -23,4 +23,4 @@ Updates
 No Comments in the Code? Why?
 ==============================
 
--Must Read: Clean Code: A Handbook of Agile Software Craftsmanship[http://www.e-reading.ws/bookreader.php/134601/Martin_-_Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.pdf]
+-Must Read: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.e-reading.ws/bookreader.php/134601/Martin_-_Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.pdf)
